@@ -1,6 +1,6 @@
 {
   "Hospital": {
-    "hospitalId": "autoincrement",
+    "hospitalId": "number",
     "city": "string",
     "name": "string",
     "address": "string"
