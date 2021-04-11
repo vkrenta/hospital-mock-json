@@ -1,6 +1,6 @@
 {
   "Hospital": {
-    "hospitalId": "number",
+    "hospitalId": "int",
     "city": "string",
     "name": "string",
     "address": "string"
