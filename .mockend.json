@@ -1,5 +1,4 @@
 {
-  "hospital_count": 100,
   "Hospital": {
     "hospitalId": "int",
     "city": "string",
