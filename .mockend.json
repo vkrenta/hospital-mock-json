@@ -11,5 +11,5 @@
     "address": "string",
     "createdAt": "Date",
     "users": "User[]"
-  },
+  }
 }
