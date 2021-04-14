@@ -1,8 +1,15 @@
 {
   "Hospital": {
-    "hospitalId": "int",
     "city": "string",
     "name": "string",
-    "address": "string"
+    "address": "string",
+    "createdAt": "Date",
+    "users": "User[]"
+  },
+  "User": {
+    "password": "string",
+    "role": "string",
+    "createdAt": "Date",
+    "hospital": "Hospital"
   }
 }
