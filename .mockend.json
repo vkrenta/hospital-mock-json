@@ -1,15 +1,16 @@
 {
-  "User": {
-    "password": "string",
-    "role": "string",
-    "createdAt": "Date",
-    "hospital": "Hospital"
-  },
+  
   "Hospital": {
     "city": "string",
     "name": "string",
     "address": "string",
     "createdAt": "Date",
     "users": "User[]"
+  },
+  "User": {
+    "password": "string",
+    "role": "string",
+    "createdAt": "Date",
+    "hospital": "Hospital"
   }
 }
